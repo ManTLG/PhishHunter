@@ -1,0 +1,20 @@
+{
+  "company": "Nimbus Tech Pvt Ltd",
+  "internal_domain": "nimbustech.in",
+  "protected_brands": ["nimbustech.in", "microsoft.com", "bluedart.com", "apexcomponents.in", "linkedin.com", "amazon.in", "hdfcbank.com"],
+  "executives": ["Rahul Mehta", "Sunita Rao", "Karan Malhotra"],
+  "known_vendors": {"Apex Components": "apexcomponents.in", "Shree Logistics": "shreelogistics.in"},
+  "delivery_log": [
+    {"sender": "it-support@nimbus-tech-support.com", "subject": "ACTION REQUIRED: Your Microsoft 365 password expires in 2 hours", "recipients": ["priya.sharma@nimbustech.in","amit.patil@nimbustech.in","sneha.reddy@nimbustech.in","vivek.singh@nimbustech.in","pooja.menon@nimbustech.in","farhan.ali@nimbustech.in","divya.pillai@nimbustech.in","manish.gupta@nimbustech.in","ritu.bansal@nimbustech.in","karthik.r@nimbustech.in","meera.das@nimbustech.in","sanjay.kumar@nimbustech.in","isha.jain@nimbustech.in","nikhil.shetty@nimbustech.in"]},
+    {"sender": "rahul.mehta.ceo.office@gmail.com", "subject": "Quick favour - confidential", "recipients": ["arjun.nair@nimbustech.in","neha.kulkarni@nimbustech.in","rohan.desai@nimbustech.in"]},
+    {"sender": "accounts@shreelogistics-billing.co", "subject": "Overdue Invoice #7781 - please process today", "recipients": ["rohan.desai@nimbustech.in","neha.kulkarni@nimbustech.in","finance-team@nimbustech.in","accounts@nimbustech.in","tanvi.shah@nimbustech.in","rajesh.k@nimbustech.in"]},
+    {"sender": "vikram.shah@apexcomponents-in.com", "subject": "Updated bank details for future payments", "recipients": ["neha.kulkarni@nimbustech.in"]},
+    {"sender": "noreply@bluedart-parcel-track.info", "subject": "Your parcel is on hold - pay Rs 25 redelivery fee", "recipients": ["sahil.verma@nimbustech.in","gaurav.mishra@nimbustech.in","aditi.rao@nimbustech.in","harsh.vyas@nimbustech.in","sonal.thakur@nimbustech.in","yash.agarwal@nimbustech.in","komal.sinha@nimbustech.in","deepak.yadav@nimbustech.in"]}
+  ],
+  "click_log": [
+    {"user": "amit.patil@nimbustech.in",  "url": "https://login-microsoft365.nimbus-tech-support.com/verify?user=amit.patil", "credentials_submitted": true},
+    {"user": "divya.pillai@nimbustech.in","url": "https://login-microsoft365.nimbus-tech-support.com/verify?user=divya.pillai", "credentials_submitted": false},
+    {"user": "aditi.rao@nimbustech.in",   "url": "https://bit.ly/3xBDparcel", "credentials_submitted": true},
+    {"user": "tanvi.shah@nimbustech.in",  "url": "attachment:Invoice_7781.pdf.exe", "credentials_submitted": false}
+  ]
+}

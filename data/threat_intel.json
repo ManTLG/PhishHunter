@@ -1,0 +1,30 @@
+{
+  "_note": "Dummy threat-intelligence feed (stands in for VirusTotal / AbuseIPDB / WHOIS).",
+  "domains": {
+    "nimbus-tech-support.com":   {"reputation": "malicious", "category": "credential phishing", "age_days": 3,   "reports": 41},
+    "shreelogistics-billing.co": {"reputation": "suspicious", "category": "newly seen", "age_days": 6, "reports": 2},
+    "apexcomponents-in.com":     {"reputation": "unknown", "category": "uncategorised", "age_days": 9, "reports": 0},
+    "apexcomponents.in":         {"reputation": "clean", "category": "business", "age_days": 2890, "reports": 0},
+    "bluedart-parcel-track.info":{"reputation": "malicious", "category": "smishing / payment scam", "age_days": 12, "reports": 133},
+    "pay-redelivery-in.top":     {"reputation": "malicious", "category": "payment card phishing", "age_days": 10, "reports": 87},
+    "gmail.com":                 {"reputation": "clean", "category": "free webmail", "age_days": 9000, "reports": 0},
+    "linkedin.com":              {"reputation": "clean", "category": "social network", "age_days": 8400, "reports": 0},
+    "nimbustech.in":             {"reputation": "clean", "category": "internal", "age_days": 3200, "reports": 0}
+  },
+  "ips": {
+    "185.234.72.19": {"reputation": "malicious", "abuse_score": 96, "country": "NL", "note": "Known phishing kit host"},
+    "91.219.237.88": {"reputation": "malicious", "abuse_score": 88, "country": "RU", "note": "Malware distribution"},
+    "45.142.214.7":  {"reputation": "malicious", "abuse_score": 79, "country": "BG", "note": "Bulk spam source"},
+    "103.21.58.140": {"reputation": "unknown",   "abuse_score": 4,  "country": "IN", "note": "Shared hosting"},
+    "209.85.220.41": {"reputation": "clean",     "abuse_score": 0,  "country": "US", "note": "Google mail server"},
+    "108.174.0.215": {"reputation": "clean",     "abuse_score": 0,  "country": "US", "note": "LinkedIn mail server"},
+    "10.20.1.15":    {"reputation": "clean",     "abuse_score": 0,  "country": "internal", "note": "Internal relay"}
+  },
+  "file_hashes": {
+    "a3f9c1e7d2b84f6a9e0c5d1b7f2a8e4c6d9b0a1f3e5c7d9b2a4f6e8c0d2b4a6f": {"verdict": "malicious", "family": "AgentTesla infostealer", "detections": "54/72"},
+    "5e8b1c3d9f2a7e6b4c0d8a1f3e5b7c9d2a4f6e8b0c1d3e5f7a9b2c4d6e8f0a1b": {"verdict": "clean", "family": null, "detections": "0/72"}
+  },
+  "short_links": {
+    "https://bit.ly/3xBDparcel": "https://pay-redelivery-in.top/bluedart/card-payment"
+  }
+}
